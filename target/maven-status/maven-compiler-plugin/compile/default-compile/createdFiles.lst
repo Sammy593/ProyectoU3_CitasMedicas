@@ -1,0 +1,9 @@
+com\web\idao\CitasDaoImpl.class
+com\web\model\JPAUtil.class
+com\web\controller\CitasManagedBean.class
+com\web\idao\ClienteDaoImpl.class
+com\web\dao\ClienteDao.class
+com\web\dao\CitasDao.class
+com\web\controller\ClienteManagedBean.class
+com\web\model\Citas.class
+com\web\model\Cliente.class
